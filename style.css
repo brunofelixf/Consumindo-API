@@ -1,0 +1,12 @@
+body{
+  background-color: #222;
+  color: aliceblue;
+  font-family: 'Saira', sans-serif;
+}
+button{
+  border: none;
+  background: linear-gradient(to right,darkblue, darkviolet);
+  color: aliceblue;
+  width: fit-content;
+  height: 30px;
+}
